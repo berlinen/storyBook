@@ -1,0 +1,30 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "storyBook",
+  "main": "index.js",
+  "scripts": {
+    "storybooks": "start-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berlinen/storyBook.git"
+  },
+  "keywords": [
+    "storyBook",
+    "component"
+  ],
+  "author": "berlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berlinen/storyBook/issues"
+  },
+  "homepage": "https://github.com/berlinen/storyBook#readme",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@storybook/react": "^5.1.10",
+    "babel-loader": "^8.0.6",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
